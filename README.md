@@ -1,4 +1,1 @@
-#ForPraidAgency
-Чтобы запустить проект нажмите на ссылку: 
-Lorem Landing
-
+Чтобы запустить проект нажмите на ссылку: https://stepperok.github.io/ForPraidAgency/
